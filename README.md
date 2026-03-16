@@ -1,29 +1,12 @@
+
 # secret
-Thats a secret
-Please paste the result below this line
+Giolanta_2237 Please paste the result below this line
 ------------------------------------------------------------------------
-import random
-
-def create_random_name(name):
-  """
-  Takes a string 'name' and appends a random number to it.
-  
-  Args:
-    name: The input name (string).
-    
-  Returns:
-    A new string in the format 'name_<random_number>'.
-  """
-  random_number = random.randint(0, 9999)
-  return f"{name}_{random_number}"
-
-# --- How to use the function ---
-
-# 1. Provide the name you want to use
-your_name = "Sofia"
-
-# 2. Call the function and store the result
-new_name = create_random_name(your_name)
-
-# 3. Print the new name
-print(new_name)
+the result is thanopoulos_7538
+Paraskevi_5878
+Write Your name here Evridiki
+Evridiki_8379
+Christina_3925
+Christina_93
+Merope_9210
+Trifonas_4755
